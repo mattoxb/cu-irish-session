@@ -16,7 +16,6 @@ vendor/
 node_modules/
 public/
 .quartz-cache/
-package-lock.json
 
 # macOS
 .DS_Store
