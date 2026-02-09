@@ -2,7 +2,7 @@
 
 # Site Settings
 theme: jekyll-theme-chirpy
-baseurl: ""
+baseurl: "/cu-irish-session"
 lang: en
 
 # Site Info
@@ -12,10 +12,10 @@ description: >-
   A community Irish music session in Champaign-Urbana.
   Learn, play, and enjoy traditional Irish tunes together.
 
-url: ""
+url: "https://mattoxb.github.io"
 
 github:
-  username: # your GitHub username
+  username: mattox
 
 social:
   name: C-U Irish Session
