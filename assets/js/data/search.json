@@ -4,7 +4,8 @@ swcache: true
 ---
 
 [
-  {% for post in site.posts %}
+{% assign sep = "" %}
+{% for post in site.posts %}{{ sep }}
   {
     "title": {{ post.title | jsonify }},
     "url": {{ post.url | relative_url | jsonify }},
@@ -15,10 +16,11 @@ swcache: true
     {% assign _content = content | strip_html | strip_newlines %}
     "snippet": {{ _content | truncate: 200 | jsonify }},
     "content": {{ _content | jsonify }}
-  },
-  {% endfor %}
-  {% for page in site.pages %}
-    {% if page.layout == 'page' and page.title %}
+  }
+{% assign sep = "," %}
+{% endfor %}
+{% for page in site.pages %}
+  {% if page.layout == 'page' and page.title %}{{ sep }}
   {
     "title": {{ page.title | jsonify }},
     "url": {{ page.url | relative_url | jsonify }},
@@ -28,7 +30,8 @@ swcache: true
     {% assign page_content = page.content | strip_html | strip_newlines %}
     "snippet": {{ page_content | truncate: 200 | jsonify }},
     "content": {{ page_content | jsonify }}
-  }{% unless forloop.last %},{% endunless %}
-    {% endif %}
-  {% endfor %}
+  }
+{% assign sep = "," %}
+  {% endif %}
+{% endfor %}
 ]
