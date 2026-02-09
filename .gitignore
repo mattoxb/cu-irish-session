@@ -1,16 +1,22 @@
-# Jekyll
+# Jekyll (legacy)
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 
-# Bundler
+# Bundler (legacy)
 .bundle/
 vendor/
 
-# Ruby
+# Ruby (legacy)
 *.gem
 .rvmrc
+
+# Quartz
+node_modules/
+public/
+.quartz-cache/
+package-lock.json
 
 # macOS
 .DS_Store

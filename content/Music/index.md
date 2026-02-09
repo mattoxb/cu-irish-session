@@ -9,7 +9,7 @@ Welcome to our collection of traditional Irish tunes!  These are arranged accord
 we play at our session.  At least, most of us.  At least, at the time the tune was typeset.  The main
 reason these are here are so newcomers to the session can learn tunes we are likely to play.
 
-Most tunes have a link to a PDF and perhaps a Lilypond source file.  If a close approximation exists on 
+Most tunes have a link to a PDF and perhaps a Lilypond (ly) source file.  If a close approximation exists on 
 The Session the link might take you there instead.
 
 ## Browse by Type
