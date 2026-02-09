@@ -1,31 +1,3 @@
-# Jekyll (legacy)
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-
-# Bundler (legacy)
-.bundle/
-vendor/
-
-# Ruby (legacy)
-*.gem
-.rvmrc
-
-# Quartz
-node_modules/
-public/
-.quartz-cache/
-
-# macOS
-.DS_Store
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Temp files
-*.tmp
+docs/
+node_modules
+public
