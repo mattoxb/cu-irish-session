@@ -12,7 +12,7 @@ Hornpipes are distinctive tunes in 4/4 time with a characteristic dotted rhythm 
 
 ### D
 
-- **[Dunphy's]({{ site.baseurl }}/assets/music/Dunphys.pdf)** - Traditional
+- **Dunphy's [PDF]({{ site.baseurl }}/assets/music/Dunphys.pdf)** [Lilypond]({{ site.baseurl }}/assets/music/Dunphys.ly)** 
 
 ---
 
