@@ -7,7 +7,7 @@ title: Collections
 
 Here are the tune books published by a previous generation of CU Irish Session members.
 
-- [[ccitol-v1.pdf|Book 1 (pdf)]]
-- [[ccitol-v2.pdf|Book 2 (pdf)]]
-- [[ccitol-v3.pdf|Book 3 (pdf)]]
+- [[ccitcol-v1.pdf|Book 1 (pdf)]]
+- [[ccitcol-v2.pdf|Book 2 (pdf)]]
+- [[ccitcol-v3.pdf|Book 3 (pdf)]]
 
