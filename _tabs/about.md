@@ -20,5 +20,5 @@ An Irish music session is an informal gathering where musicians come together to
 
 ## The Tunes
 
-Browse our [sheet music collection](/music/) to find tunes organized by type. We regularly play reels, jigs, hornpipes, polkas, and more.
+Browse our [sheet music collection]({{ site.baseurl }}/music/) to find tunes organized by type. We regularly play reels, jigs, hornpipes, polkas, and more.
 
