@@ -11,3 +11,422 @@ Here are the tune books published by a previous generation of CU Irish Session m
 - [[ccitcol-v2.pdf|Book 2 (pdf)]]
 - [[ccitcol-v3.pdf|Book 3 (pdf)]]
 
+### Book 1 Contents
+
+The format is Tune Title — Tune Number — Page Number
+
+- 10-Pound Float, The — 4026 — 27
+- As I Went Out on the Ice — 6001 — 42
+- Ballinasloe Fair — 4001 — 16
+- Ballydesmond Polka No. 3 — 6007 — 43
+- Banish Misfortune — 1001 — 3
+- Bank of Ireland, The — 4002 — 16
+- Banshee, The — 4033 — 31
+- Bill Sullivan’s Polka — 6002 — 42
+- Blackthorn Stick, The — 1004 — 4
+- Blarney Pilgrim, The — 1002 — 3
+- Bobby Casey’s — 4011 — 20
+- Boy in the Bush, The — 2005 — 15
+- Boys of Ballisadare, The — 4003 — 17
+- Boys of Bluehill, The — 5001 — 39
+- Bucks of Oranmore, The — 4004 — 17
+- Bunker Hill — 4005 — 18
+- Butterfly, The — 2002 — 14
+- Castle, The — 4006 — 18
+- Charlie Harris’s Polka — 6003 — 42
+- Choice Wife, The — 2005 — 15
+- Christmas Eve — 4007 — 19
+- Cliffs of Moher, The — 1003 — 3
+- Coach Road to Sligo, The — 1004 — 4
+- Cock and the Hen, The — 2003 — 14
+- Concertina Reel, The — 4008 — 19
+- Congress Reel, The — 4009 — 20
+- Connaughtman’s Rambles, The — 1005 — 4
+- Cooley’s Reel — 4010 — 20
+- Coppers and Brass — 1011 — 6
+- Crosses of Annagh, The — 4011 — 20
+- Cuckoo’s Nest, The — 5002 — 39
+- Cup of Tea, The — 4012 — 21
+- Dennis Ryan’s — 2003 — 14
+- Dick Gossip’s — 4006 — 18
+- Doherty’s — 4052 — 38
+- Donnybrook Fair — 1013 — 7
+- Drunken Landlady, The — 4013 — 21
+- Dublin Reel, The — 4014 — 22
+- Earl’s Chair, The — 4015 — 22
+- Farewell to Connaught — 4016 — 23
+- Farewell to Erin — 4017 — 23
+- Farewell to Ireland — 4017 — 23
+- Father Jack Walsh — 1028 — 12
+- Fig for a Kiss, A — 2001 — 14
+- Finnish Polka, The — 6004 — 42
+- Flogging Reel, The — 4018 — 24
+- Foxhunters’ Reel, The — 4019 — 24
+- Gallagher’s Frolics — 1006 — 4
+- Gallowglass, The — 1007 — 5
+- Gander at the Pratie Hole, The — 1008 — 5
+- Garrett Barry’s Jig — 1009 — 5
+- Glen Allen — 4020 — 25
+- Glen of Aherlow, The — 4029 — 29
+- Gravel Walks, The — 4021 — 25
+- Gravel Walks to Granie, The — 4021 — 25
+- Green Groves of Erin, The — 4022 — 26
+- Harvest Home, The — 5003 — 39
+- Highlander’s Farewell to Ireland, The — 4017 — 23
+- Home Ruler, The — 5004 — 40
+- Humours of Ballyloughlin, The — 1010 — 6
+- Humours of Ennistymon, The — 1011 — 6
+- Humours of Tulla, The — 4023 — 26
+- Hurlers’ March, The — 1010 — 6
+- Jackie Coleman’s — 4024 — 26
+- Jacky Tar — 5002 — 39
+- Jessica’s Polka — 6005 — 43
+- Jimmy Ward’s Jig — 1012 — 7
+- Johnny O’Leary’s No. 2 — 6006 — 43
+- Jolly Tinker, The — 4025 — 27
+- Joy of My Life, The — 1013 — 7
+- Junior Crehan’s Favourite — 4027 — 28
+- Kerrigan’s Jig — 1014 — 7
+- Kesh Jig, The — 1014 — 7
+- Kid on the Mountain, The — 2004 — 15
+- Killavil Fancy, The — 4026 — 27
+- Kincora Jig — 1014 — 7
+- Kitty’s Wedding — 5005 — 40
+- Knotted Cord, The — 4027 — 28
+- Kregg’s Pipes — 4028 — 28
+- Lafferty’s — 4029 — 29
+- Lark in the Morning, The — 1015 — 8
+- Longford Collector, The — 4030 — 29
+- Lord McDonald — 4031 — 30
+- Luttrell’s Pass — 4010 — 20
+- Maid at the Spinning Wheel, The — 1016 — 8
+- Maid of Ardagh, The — 6006 — 43
+- Martin Wynne’s No. 2 — 4032 — 30
+- McMahon’s — 4033 — 31
+- Merry Blacksmith, The — 4034 — 31
+- Mist on the Mountain, The — 1017 — 9
+- Morrison’s Jig — 1018 — 9
+- Mountain Road, The — 4035 — 31
+- Mountain Top, The — 4036 — 32
+- Munster Buttermilk, The — 1019 — 9
+- Musical Priest, The — 4037 — 32
+- My Love Is in America — 4038 — 32
+- O’Farrell’s Welcome to Limerick — 2005 — 15
+- Off to California — 5006 — 40
+- Old Bush, The — 4039 — 33
+- Otter’s Holt, The — 4040 — 33
+- Out on the Ocean — 1020 — 10
+- Phis Fhliuch, An — 2005 — 15
+- Pigeon on the Gate, The — 4041 — 33
+- Pipe on the Hob, The — 1021 — 10
+- Portroe Jig, The — 1020 — 10
+- Providence Reel, The — 4042 — 34
+- Rakish Paddy — 4043 — 34
+- Rambling Pitchfork, The — 1022 — 10
+- Rights of Man, The — 5007 — 41
+- Rose in the Heather, The — 1023 — 11
+- Sailor’s Bonnet, The — 4044 — 34
+- Sally Gardens, The — 4045 — 35
+- Scatter the Mud — 1024 — 11
+- Scotch Mary — 4046 — 35
+- Sean sa Cheo — 4047 — 36
+- Sixpenny Money — 1025 — 11
+- Sliabh Mhachaire — 6006 — 43
+- Sligo Maid, The — 4048 — 36
+- Sporting Paddy — 4049 — 36
+- Sporting Pitchfork, The — 1026 — 12
+- Swallowtail, The — 1027 — 12
+- Swinging on a Gate — 4050 — 37
+- Tarbolton Lodge — 4051 — 37
+- Tarbolton Reel — 4051 — 37
+- Tatter Jack Walsh — 1028 — 12
+- Tenpenny Bit, The — 1029 — 13
+- Three Little Drummers, The — 1029 — 13
+- Tom Billy’s Polka — 6007 — 43
+- West Clare Jig — 1012 — 7
+- Wise Maid, The — 4052 — 38
+
+### Book 2 Contents
+
+- All-Ireland, The — 4090 — 27
+- Anything for John Joe — 7002 — 39
+- Apples in Winter — 1030 — 3
+- Ashplant, The — 4053 — 14
+- Bag of Spuds, The — 4054 — 14
+- Banshee’s Wail over the Mangle Pit, The — 1050 — 10
+- Battering Ram, The — 1031 — 3
+- Big Bag of Spuds, The — 4054 — 14
+- Bloom of Youth, The — 4055 — 14
+- Boholla Jig No. 1 — 1043 — 8
+- Boholla Jig No. 2 — 1032 — 3
+- Bonaparte Crossing the Alps — 8001 — 41
+- Bunch of Keys, The — 4056 — 15
+- Butchers’ March, The — 1032 — 3
+- Cailleach an Airgid — 1040 — 7
+- Cameronian, The — 4057 — 15
+- Carrowcastle Lasses, The — 4065 — 18
+- Cashmere Shawl, The — 4071 — 20
+- Castle Kelly — 4058 — 16
+- Cathleen O’Hehir — 3001 — 11
+- Charlie Mulvihill’s — 4086 — 26
+- Chief O’Neill’s Favorite — 5008 — 33
+- Clare Jig — 1045 — 8
+- Clare Polka No. 1 — 6008 — 36
+- Clare Polka No. 2 — 6009 — 36
+- Cleary’s Polka — 6013 — 37
+- Coen’s Memories — 4059 — 16
+- Come West Along the Road — 4060 — 16
+- Connla — 1038 — 6
+- Cook in the Kitchen, The — 1033 — 4
+- Copperplate, The — 4087 — 26
+- Cottage in the Grove, The — 4059 — 16
+- Cricket’s March over the Salt Box, The — 8002 — 41
+- Crooked Road to Dublin, The — 4061 — 17
+- Crooked Road, The — 4061 — 17
+- Dan O’Keefe’s Slide — 3002 — 11
+- Denis Murphy’s Polka — 6010 — 36
+- Devanny’s Goat — 4062 — 17
+- Dick Cosgrove’s — 4104 — 32
+- Dinny Delaney’s Slide — 3003 — 12
+- Doctor O’Neill — 1034 — 4
+- Doon Reel, The — 4063 — 17
+- Down the Back Lane — 1035 — 5
+- Duke of Leinster’s Wife, The — 4078 — 22
+- Farewell to Old Decency — 4064 — 18
+- Fasten the Leg in Her — 1036 — 5
+- Fasten the Legging — 1036 — 5
+- Flowing Tide, The — 5009 — 33
+- For the Sake of Old Decency — 4064 — 18
+- Fraher’s — 1037 — 5
+- Friar’s Britches, The — 1038 — 6
+- Frieze Britches, The — 1038 — 6
+- Geese in the Bog, The — 1039 — 6
+- Geoghegan’s — 4055 — 14
+- George White’s Fancy — 4065 — 18
+- George White’s Favourite — 4065 — 18
+- Glass of Beer, The — 4066 — 18
+- Good-Natured Man, The — 5010 — 34
+- Green Grow the Rushes — 7001 — 39
+- Hag with the Money, The — 1040 — 7
+- Heather and Furze — 4073 — 20
+- Heathery Breeze, The — 4067 — 18
+- Honeysuckle Garden — 5011 — 34
+- Humours of Ballyconnell, The — 4068 — 19
+- Humours of Lissadell, The — 4069 — 19
+- Humours of Toomagh, The — 4070 — 19
+- Hut in the Bog, The — 4071 — 20
+- Imelda Roland’s — 4072 — 20
+- Is ’I Do Mháimeó ’I — 1040 — 7
+- Jenny Picking Cockles — 4073 — 20
+- Jenny’s Chickens — 4074 — 21
+- Jenny’s Welcome to Charlie — 4075 — 21
+- Jode Dowling’s Fancy — 4076 — 22
+- Joe Bane’s — 6009 — 36
+- John Ryan’s Polka — 6011 — 37
+- Johnny with the Quare Thing — 4092 — 28
+- Keadue Polka, The — 6011 — 37
+- Keel Row — 7002 — 39
+- Kilfenora Jig No. 1 — 3004 — 12
+- Kilfenora Jig No. 2 — 1041 — 7
+- Kiss Me Kate — 4076 — 22
+- Lad O’Beirne’s — 4077 — 22
+- Ladies’ Pantalettes, The — 4078 — 22
+- Langstern Pony — 1042 — 7
+- Langstrom’s Pony — 1042 — 7
+- Leather Buttons — 4063 — 17
+- Lilting Banshee, The — 1043 — 8
+- Longford Tinker, The — 4079 — 23
+- Love, Will You Marry Me — 7003 — 39
+- Maid Behind the Bar, The — 4080 — 23
+- Maid of Mt. Kisco, The — 4081 — 24
+- Martin Wynne’s No. 1 — 4082 — 24
+- Martin Wynne’s No. 3 — 4083 — 25
+- Maud Millar — 4084 — 25
+- Maud Miller — 4084 — 25
+- McGreevey’s No. 1 — 6012 — 37
+- McGreevey’s No. 2 — 6013 — 37
+- McGreevey’s No. 3 — 6014 — 38
+- Miss Thornton — 4085 — 25
+- Mooncoin Jig, The — 1044 — 8
+- Muckross Abbey — 4086 — 26
+- Mug of Brown Ale, The — 1045 — 8
+- Murphy’s — 4086 — 26
+- Musical Bridge, The — 4069 — 19
+- My Love Is Fair and Handsome — 4084 — 25
+- Neily Cleere’s — 6014 — 38
+- New Copperplate, The — 4087 — 26
+- Old Copperplate, The — 4088 — 26
+- Old Favourite, The — 3005 — 13
+- Old Hag in the Kiln, The — 3003 — 12
+- Paddy in London — 1045 — 8
+- Paddy on the Turnpike — 4056 — 15
+- Pigtown Fling, The — 7004 — 40
+- Poll Ha’penny — 5011 — 34
+- Primrose Lass, The — 7005 — 40
+- Red-Haired Lass, The — 4089 — 27
+- Rising Sun, The — 4090 — 27
+- Roaring Mary — 4091 — 27
+- Sailor on the Rock, The — 4092 — 28
+- Séamaisín — 6009 — 36
+- Ships Are Sailing — 4093 — 28
+- Silver Spear, The — 4094 — 28
+- Skylark, The — 4095 — 29
+- Sliabh Arda Polka No. 1 — 6012 — 37
+- Sliabh Arda Polka No. 2 — 6013 — 37
+- Sliabh Arda Polka No. 3 — 6014 — 38
+- Smash the Windows — 3006 — 13
+- Some Say the Devil’s Dead — 7003 — 39
+- Speed the Plough — 4096 — 29
+- Stack of Barley, The — 5012 — 34
+- Stack of Wheat, The — 5013 — 35
+- Tell Her I Am — 1046 — 9
+- Terry Teahan’s Favourite — 3007 — 13
+- Thady Casey’s — 4090 — 27
+- Tom Billy’s Jig — 1047 — 9
+- Tom Billy’s — 4096 — 29
+- Toss the Feathers (D) — 4097 — 30
+- Toss the Feathers (E) — 4098 — 30
+- Traveller, The — 4099 — 30
+- Trip to Athlone, The — 1048 — 9
+- Trip to Durrow, The — 4100 — 31
+- Turnpike Gate, The — 4101 — 31
+- Virginia Reel — 4102 — 32
+- Within a Mile of Dublin — 4103 — 32
+- Xanthosophist, The — 4104 — 32
+- Yellow Tinker, The — 4104 — 32
+- Yellow Wattle, The — 1049 — 10
+- Young Tom Ennis — 1050 — 10
+
+### Book 3 Contents
+
+- 42 Pound Cheque, The — 6016 — 39
+- Ah, Surely — 4102 — 16
+- Austin Barratt’s — 1057 — 5
+- Battle of Aughrim, The — 8003 — 41
+- Bearhaven Lasses — 4103 — 16
+- Behind the Haystack — 1051 — 3
+- Bere Island Reel, The — 4103 — 16
+- Besom in Bloom, The — 1052 — 3
+- Bird in the Bush, The — 4104 — 16
+- Boyne Hunt, The — 4105 — 17
+- Boys of Lough Gowna — 1068 — 9
+- Boys of the Town, The — 1053 — 3
+- Brosna Slide, The — 3008 — 14
+- Castle, The — 1054 — 4
+- Cheese Polka, The — 6018 — 40
+- Cherish the Ladies — 1055 — 4
+- Chicago Reel, The — 4106 — 17
+- College Groves, The — 4107 — 18
+- Concert Reel, The — 4108 — 18
+- Connemara Stocking, The — 4109 — 19
+- Cooley’s No. 2 — 4154 — 37
+- Cronin’s — 5014 — 38
+- Cuigi u Lasses, The — 1056 — 5
+- Curly Mike — 4110 — 19
+- Cuz Teahan’s Polka — 6015 — 39
+- Denis Murphy’s Slide — 3009 — 14
+- Dingle Regatta, The — 3010 — 14
+- Dinky Dorrian’s — 4111 — 20
+- Dinky’s — 4111 — 20
+- Dinny O’Brien’s — 4112 — 20
+- Doctor Gilbert — 4113 — 21
+- Down the Broom — 4114 — 21
+- Drunken Police Car, The — 4124 — 25
+- Duffy the Dancer — 4127 — 27
+- Dusty Windowsill, The — 1057 — 5
+- Farrell O’Gara — 4115 — 22
+- Fermoy Lasses, The — 4116 — 22
+- Finbarr Dwyer’s Favourite — 4103 — 16
+- Finnerty’s — 4144 — 33
+- Flagstone of Memories, The — 4118 — 23
+- Footing the Turf — 1067 — 8
+- Fox on the Prowl, The — 4117 — 23
+- Francie’s — 9003 — 42
+- Fred Finn’s — 4119 — 23
+- Galway Rambler, The — 4120 — 24
+- Garrett Barry’s Mazurka — 9002 — 42
+- Gatehouse Maid, The — 4121 — 24
+- Girl Who Broke My Heart, The — 4122 — 24
+- Glory Reel, The — 4123 — 25
+- Good Morning to Your Nightcap — 4124 — 25
+- Gooseberry Bush, The — 4125 — 26
+- Green Gates — 4126 — 26
+- Hag at the Churn, The — 1058 — 5
+- High Reel — 4127 — 27
+- Hunter’s House, The — 4128 — 27
+- I’ll Buy Boots for Maggie — 6017 — 39
+- Jackson’s — 1059 — 6
+- James Byrne’s Mazurka — 9001 — 42
+- Jerry’s Beaver Hat — 1060 — 6
+- Killarney Boys of Pleasure, The — 4129 — 27
+- Killavil Reel, The — 4138 — 31
+- Knights of St. Patrick, The — 1061 — 6
+- Knocknagow — 1062 — 7
+- Lanigan’s Ball — 1063 — 7
+- Last House in Connaught, The — 4112 — 20
+- Last Night’s Fun — 4130 — 28
+- Leather Away with the Wattle — 6018 — 40
+- Leitrim Reel, The — 4131 — 28
+- London Lasses, The — 4132 — 28
+- Lonesome Jig, The — 1071 — 10
+- Lord Mayo — 8004 — 41
+- Lucy Campbell — 4133 — 29
+- Mac’s Fancy — 1064 — 7
+- Maguire’s Kick — 1071 — 10
+- Maids of Mitchelstown, The — 4134 — 29
+- Maudabawn Chapel — 4135 — 30
+- Mazurka Phroinsiais — 9003 — 42
+- McDonagh’s No. 2 — 4131 — 28
+- McGovern’s — 4136 — 30
+- Merry Harriers, The — 4137 — 30
+- Michael Cooney’s — 1065 — 8
+- Mick Finn’s — 4138 — 31
+- Mickey Callaghan’s Fancy — 5015 — 38
+- Mrs. Crowley’s — 6019 — 40
+- Nightingale, The — 1066 — 8
+- O’Doherty’s — 4129 — 27
+- Old Joe’s Jig — 1067 — 8
+- Over the Moor to Maggie — 4139 — 31
+- Paddy O’Brien’s Jig — 1068 — 9
+- Piper’s Despair, The — 4110 — 19
+- Plains of Boyle, The — 5016 — 38
+- Queen of the May — 4140 — 32
+- Rakes of Clonmel, The — 1069 — 9
+- Reel of Rio, The — 4141 — 32
+- Reel with the Birl, The — 4142 — 32
+- Ríl Bheara — 4103 — 16
+- Roaring Barmaid, The — 1070 — 9
+- Rolling in the Ryegrass — 4143 — 33
+- Rolling Waves — 1071 — 10
+- Saddle the Pony — 1072 — 10
+- Sailing into Walpole’s Marsh — 4144 — 33
+- Salamanca Reel, The — 4146 — 34
+- Scholar, The — 4147 — 34
+- Seamus Cooley’s Jig — 3011 — 15
+- Sean Bui — 1079 — 13
+- Sean Ryan’s — 1054 — 4
+- Shaskeen Reel, The — 4148 — 35
+- Ship in Full Sail, The — 1073 — 10
+- Silver Spire, The — 4149 — 35
+- Sliabh Russell — 1074 — 11
+- Sonny’s Mazurka — 9002 — 42
+- Spike Island Lasses, The — 4150 — 36
+- St. Anne’s Reel — 4145 — 33
+- Star of Munster, The — 4151 — 36
+- Strayaway Child, The — 1075 — 11
+- Tempest, The — 4152 — 37
+- Tobin’s Favourite — 1076 — 12
+- Trip to Nenagh, The — 4153 — 37
+- Up to Your Knees in Sand — 4154 — 37
+- Up to Your Neck in Sand — 4154 — 37
+- Victor’s Return, The — 1064 — 7
+- Vincent Campbell’s Mazurka No. 1 — 9003 — 42
+- Vincent Campbell’s Mazurka No. 2 — 9004 — 43
+- Wandering Minstrel, The — 1077 — 12
+- Windy Gap, The — 4102 — 16
+- Winnie Hayes’ Jig — 1078 — 12
+- Winter Apples — 4109 — 19
+- Yellow John — 1079 — 13
+
+
+
