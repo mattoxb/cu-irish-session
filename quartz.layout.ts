@@ -24,6 +24,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Latest Announcements",
+        limit: 3,
+        linkToMore: "Announcements",
+        filter: (f) => f.slug?.startsWith("Announcements/") && f.slug !== "Announcements/index",
+        showTags: true,
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
