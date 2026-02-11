@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Collections
+title: County Champaign Irish Tune Collection
 ---
-
-## County Champaign Irish Tune Collection
 
 Here are the tune books published by a previous generation of CU Irish Session members.
 
