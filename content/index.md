@@ -16,10 +16,12 @@ An Irish music session is an informal gathering where musicians come together to
 ## Our Session
 
 - **When:** 7pm most Wednesdays
-- **Where:** The Hounds Rest on Walnut Street in Champaign, IL
+- **Where:** [The Hounds Rest](https://houndsrest.com) at [120 N Walnut Street](https://maps.app.goo.gl/jtLDRwmPpKLDVY1Y6) in Champaign, IL
 - **Who:** All instruments and skill levels welcome
 
 ## The Tunes
 
-Browse our [sheet music collection]({{ site.baseurl }}/music/) to find tunes organized by type. We regularly play reels, jigs, hornpipes, polkas, and more.
+We are building a collection of tunes.  We have the three volumes of the
+[County Champaign Irish Tune Collection](Music/CCITCOL) as well as a collection
+from our learning session organized by tune type.
 
