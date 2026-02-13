@@ -40,7 +40,7 @@ c8.[a16 d8. cis16] a4 d8. e16 |
 \break 
 fis8.[ e16 fis8. g16] a8.[fis16 g8. e16] |
 \tuplet 3/2 {fis8 g8 fis8} e8. cis16 d8.[ cis16 a8. g16] |
-fis8.[e16 d8. fis16] g8.[b16 a8. g16] |
+fis8.[d16 e8. fis16] g8.[b16 a8. g16] |
 fis4 \tuplet 3/2 {d8 d8 d8} d4
 }
 }
