@@ -7,9 +7,8 @@ These are tunes we're practicing in the Learning Session (a.k.a Slow Session).
 To make learning easier we standardize on a specific and often opinionated
 setting.
 
-# Hornpipes
+## Hornpipes
 
-## Tune List
 ### C
 
 - Chief O'Neill's Favorite [[Chief O'Neill's Favorite.pdf|(pdf)]] [[Chief O'Neill's Favorite.ly|(ly)]] 
