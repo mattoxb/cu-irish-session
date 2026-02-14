@@ -25,6 +25,11 @@ If we simply stole the arrangement from elsewhere (usually [The Session](https:/
 
 - [The Wren's Nest](https://thesession.org/tunes/119#comment116) [[The Wren's Nest.pdf|(pdf)]][[The Wren's Nest.ly|(ly)]] 
 
+## Spil Jigs
+
+### D
+
+- Drops of Spring Water [[Drops of Spring Water.pdf|(pdf)]][[Drops of Spring Water.ly|(ly)]]
 ---
 
 *Sheet music arranged by The C-U Learning Session*
