@@ -25,3 +25,8 @@ We are building a collection of tunes.  We have the three volumes of the
 [County Champaign Irish Tune Collection](Music/CCITCOL) as well as a collection
 from our learning session organized by tune type.
 
+## The Syllabus
+
+In order to increase our common repertoire we have a [Tune Syllabus](https://cu-irish-session.org/Music/Tune-Syllabus) that we 
+are working through together.  If you are getting started with our session these
+are some good tunes to start with.
