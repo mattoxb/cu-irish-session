@@ -13,7 +13,7 @@ All-Ireland championship three times in a row in the late 60s.
 Kathleen Harrington was an important player in Irish traditional music in the
 early 20th century in Ireland. From her bio on the ITMA website: 
 
-![images/siamsa_ceili_band.png]
+![[siamsa_ceili_band.png]]
 
 > Mrs. Harrington’s days of playing with céilí bands was not finished yet. Her
 brother, John Joe was living in Dundalk and was the figurehead and inspiration
