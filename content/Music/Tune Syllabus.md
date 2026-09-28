@@ -3,7 +3,7 @@ layout: page
 title: The Tune Syllabus
 ---
 
-## Next up: Brian O'Kane's #2
+## Brian O'Kane's #2
 
 Next up on "The Syllabus" is a popular ceili band march called "Brian O'Kane's
 #2." It was composed by the piano accordion player Brian O'Kane, of Dundalk,
