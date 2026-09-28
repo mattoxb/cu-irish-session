@@ -11,12 +11,15 @@ Louth, who was a member of the Siamsa Ceili Band. The Siamsa CB won the
 All-Ireland championship three times in a row in the late 60s.
 
 Kathleen Harrington was an important player in Irish traditional music in the
-early 20th century in Ireland. From her bio on the ITMA website: "Mrs.
-Harrington’s days of playing with céilí bands was not finished yet. Her
+early 20th century in Ireland. From her bio on the ITMA website: 
+
+![images/siamsa_ceili_band.png]
+
+> Mrs. Harrington’s days of playing with céilí bands was not finished yet. Her
 brother, John Joe was living in Dundalk and was the figurehead and inspiration
 for a new generation of musicians. Rory Kennedy with Patsy and Pauline Gardiner
 formed the Siamsa Céilí Band and were subsequently three times champions of the
-All-Ireland Céılí band competition (1966–69)."
+All-Ireland Céılí band competition (1966–69).
 
 Mrs. Harrington was a prominent and experienced member of the band. The Siamsa
 Céilí Band included John Joe’s daughters, Pauline and Patsy and his son-in-law,
@@ -27,7 +30,10 @@ band competition in 1958.
 In the photo, Brian O'Kane stands on the left-hand side, and Kathleen
 Harrington and John Joe Gardiner sit front and center.
 
-I as unable to find a copy of the Siamsa Ceili Band playing this march, if indeed it was ever recorded by them, but here is a well-loved version recorded in the mid-70s by another great ceili band, the Bridge Ceili Band, (who won more than twice as many all-Ireland titles as the Siamsa!):
+I am unable to find a copy of the Siamsa Ceili Band playing this march, if
+indeed it was ever recorded by them, but here is a well-loved version recorded
+in the mid-70s by another great ceili band, the Bridge Ceili Band, (who won
+more than twice as many all-Ireland titles as the Siamsa!):
 
 https://www.youtube.com/watch?v=x2tZgPYTBq8
 
