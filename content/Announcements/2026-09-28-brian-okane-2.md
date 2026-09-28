@@ -1,5 +1,5 @@
 ---
-title: "No session tonight!"
+title: "Tune Syllabus Restarting!"
 published: 2026-06-17
 tags: []
 ---
