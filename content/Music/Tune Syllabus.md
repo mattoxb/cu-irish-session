@@ -48,12 +48,12 @@ take a couple of weeks on this one.
 
 (BTW in case you're wondering, there is a #1, which is very popular in Scotland, and at least one or two more that I have found.)
 
-- Jake
+-- Jake
 
 Addendum: For those who like dots, the [session.org](https://thesession.org/tunes/6879) has a single version of it which
 matches the recordings well.
 
-- Mattox
+-- Mattox
 
 # Upcoming Tunes
 
